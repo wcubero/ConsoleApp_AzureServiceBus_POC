@@ -11,7 +11,7 @@ namespace ConsoleApp_ServiceBus_POC_02
     {
         static async Task Main(string[] args)
         {           
-            string connectionString = "Endpoint=sb://pocsv202402.servicebus.windows.net/;SharedAccessKeyName=policy_name_poc;SharedAccessKey=d69jQbptoTMDwmMMzNvTLMP5ysSEdtJ1/+ASbCNp+qI=;EntityPath=topic_poc_01";
+            string connectionString = "";
             string topicName = "topic_poc_01";
             string subscription = "subscription_poc_02";
             
