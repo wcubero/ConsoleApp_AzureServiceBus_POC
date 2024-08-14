@@ -1,0 +1,57 @@
+# Archivos y carpetas generados por Visual Studio
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.dbmdl
+*.opendb
+*.csproj.user
+*.dbproj.user
+*.suo
+
+# Archivos generados por el compilador
+bin/
+obj/
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+*.dotnet/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos temporales de sistema operativo
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+
+# Archivos de configuración de usuario
+*.userprefs
+
+# Archivos de depuración
+*.dmp
+
+# Archivos de documentación generados
+*.docx
+*.pdf
+
+# Otros archivos generados
+*.cache
+*.pidb
+*.suo
+*.pdb
+*.dll
+*.exe
+
+# Configuración de herramientas de CI/CD
+*.ci
+*.ci_config
